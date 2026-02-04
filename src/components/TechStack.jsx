@@ -1,6 +1,7 @@
 const stacks = {
   frontend: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Tailwind CSS'],
-  backend: ['Node.js', 'Python', 'MySQL', 'PostgreSQL']
+  backend: ['Node.js', 'Python', 'MySQL', 'PostgreSQL'],
+  tools: ['GitHub', 'Git', 'Vite'] 
 };
 
 export default function TechStack() {
