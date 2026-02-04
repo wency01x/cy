@@ -4,12 +4,9 @@ import About from './components/About';
 import TechStack from './components/TechStack';
 import Timeline from './components/Timeline';
 import LogoLoop from './components/LogoLoop'; 
-// MODIFIED: Added SiGithub to the import list
 import { SiReact, SiNextdotjs, SiTypescript, SiTailwindcss, SiNodedotjs, SiPython, SiMysql, SiPostgresql, SiGithub } from 'react-icons/si';
 
 const techLogos = [
-  // MODIFIED: Added href properties to make them clickable. 
-  // Added SiGithub to match your professional tech stack.
   { node: <SiGithub />, title: "GitHub", href: "https://github.com/wency01x" }, 
   { node: <SiReact />, title: "React", href: "https://react.dev" },
   { node: <SiNextdotjs />, title: "Next.js", href: "https://nextjs.org" },
