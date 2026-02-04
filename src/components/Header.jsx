@@ -10,7 +10,7 @@ export default function Header() {
   return (
     <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 flex flex-col md:flex-row items-center gap-6">
       <img 
-        src="/public/hero-profile.jpg" 
+        src="/hero-profile.jpg" 
         alt="Profile" 
         className="w-32 h-32 rounded-xl object-cover"
       />
