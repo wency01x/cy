@@ -5,6 +5,7 @@ import TechStack from './components/TechStack';
 import Timeline from './components/Timeline';
 import LogoLoop from './components/LogoLoop'; 
 import { SiReact, SiNextdotjs, SiTypescript, SiTailwindcss, SiNodedotjs, SiPython, SiMysql, SiPostgresql, SiGithub } from 'react-icons/si';
+import StarBorder from './components/StarBorder';
 
 const techLogos = [
   { node: <SiGithub />, title: "GitHub", href: "https://github.com/wency01x" }, 
