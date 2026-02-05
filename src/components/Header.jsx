@@ -13,8 +13,7 @@ export default function Header() {
         />
         <div className="flex-1 text-center md:text-left">
           <div className="flex items-center justify-center md:justify-start gap-2">
-            <SplitText text="Wency Casiño" className="text-3xl font-bold" />
-            <span className="text-blue-500 text-xl">✓</span>
+            <SplitText text="Wency Casiño" className="text-4xl font-bold" />
           </div>
           <p className="text-gray-500 mt-1">📍 Cagayan de Oro City</p>
           <p className="text-gray-600 font-medium mt-2">Fullstack Developer</p>
