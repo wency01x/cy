@@ -19,7 +19,7 @@ export default function About() {
             I am a full-stack developer specializing in developing end-to-end solutions. I work on web applications, building RESTful APIs, creating responsive front-end interfaces, and managing database systems using MySQL and Firebase.
           </p>
           <p>
-            I am currently pursuing a Bachelor of Science in Computer Science at University of Science and Technology of Southern Philippines. I have professional experience working with the office of the USTP registrar, where I was one of the student who developed and full-stack infrastructure for real-time applications, including an Election Vote Count System for the 2024 Senatorial Elections.
+            I am currently pursuing a Bachelor of Science in Computer Science at University of Science and Technology of Southern Philippines. I have professional experience working with the office of the USTP registrar, where I was one of the student who developed and full-stack infrastructure for real-time applications.
           </p>
         </div>
       </div>
