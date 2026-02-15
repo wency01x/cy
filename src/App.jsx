@@ -25,14 +25,14 @@ function App() {
     <div className="min-h-screen bg-gray-50 p-4 md:p-10 font-sans text-gray-800">
       <div className="max-w-5xl mx-auto space-y-6">
         <Header />
-
+        <StarBorder />
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           <div className="lg:col-span-2 space-y-6">
             <About />
             <TechStack />
 
             <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
-              <h2 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-6">Technologies in Motion</h2>
+              <h2 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-6">Software Stack</h2>
               <LogoLoop
                 logos={techLogos}
                 speed={60}
