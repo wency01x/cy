@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/xcy-portfolio/',
+  base: '/cy/',
 
   // 1. Tell Vite to treat .glb files as static assets
   assetsInclude: ['**/*.glb'], 
